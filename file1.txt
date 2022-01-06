@@ -1,0 +1,4 @@
+aws "provider" vpc {
+	name = testvpc
+	CIDR = 192.168.1.3
+}
