@@ -1,4 +1,10 @@
 aws "provider" vpc {
-	name = testvpc
-	CIDR = 192.168.1.3
+	 name = testvpc
+	 CIDR = 192.168.1.3
+}
+aws "provider" subnet1 {
+	name = sub1
+	CIDR = 1.2.3.4
+	zone = ap-northeast-1a
+	tag = sub1
 }
