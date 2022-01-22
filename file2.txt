@@ -1,6 +1,12 @@
 this is the first line
 this is the second line 
 this is the third line
+<<<<<<< Updated upstream
 this is the fourth line
 this is the fifth line
 this is the sixth line
+=======
+rupesh 4th stmnt
+rupesh 5th stmnt
+rupesh 6th stmnt 
+>>>>>>> Stashed changes
