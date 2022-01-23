@@ -1,0 +1,2 @@
+this is the demo for git ignore 
+this is the second line created by himashu
