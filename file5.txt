@@ -1,1 +1,2 @@
-creating the schema table for Databse (PSSQL) and  the Join Cluster along Redis Server
+creating the schema table for Databse (PSSQL) and Adding the Join Cluster along Redis Server
+
