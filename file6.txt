@@ -1,0 +1,1 @@
+creating the terraform Modules for AKS Cluster and Creating Repo for ACR along Service principle

@@ -1,1 +1,1 @@
-creating the terraform Modules for AKS Cluster and Creating Repo for ACR along Service principle
+creating the schema table for Databse (PSSQL) and  the Join Cluster along Redis Server
